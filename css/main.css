@@ -102,7 +102,9 @@ h4 {
     color:red;
 }
 
-.textarea {
+textarea {
     display: inline-table;
+    min-height:200px;
+    min-width: 500px;
 
 }
